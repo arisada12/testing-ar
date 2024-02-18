@@ -4,5 +4,11 @@
     },
     "kaset3d": {
       "url": "https://raw.githubusercontent.com/arisada12/testing-ar/main/coba.gltf"
+    },
+    "pikachu": {
+      "url": "https://raw.githubusercontent.com/arisada12/testing-ar/main/pikachu/scene.gltf"
+    },
+    "file1": {
+      "url": "https://raw.githubusercontent.com/arisada12/testing-ar/main/file-1.mp4"
     }
 }
